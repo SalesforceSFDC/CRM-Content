@@ -14,4 +14,3 @@
 and custom objects?
 * Do you want to enable Salesforce CRM Content in the Customer Portal
 and partner portal?
-* 
